@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Leo.Extensions</RootNamespace>
+    <Authors>Leo</Authors>
+    <Description>Vector extension</Description>
+  </PropertyGroup>
+
+</Project>
