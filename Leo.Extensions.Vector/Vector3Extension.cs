@@ -9,7 +9,7 @@ namespace Leo.Extensions
 {
     public static class Vector3Extension
     {
-        public static Vector3 Vector2Lerp(this float amount, Vector3 v1, Vector3 v2)
+        public static Vector3 Vector3Lerp(this float amount, Vector3 v1, Vector3 v2)
         {
             return Vector3.Lerp(v1, v2, amount);
         }
